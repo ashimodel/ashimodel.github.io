@@ -1,0 +1,17 @@
+body {
+    background:url("../img/bg bintang.png") center/cover;
+}
+.menu {
+        text-align: center;
+        padding: 10px;
+        float: right;
+}
+.menu a{
+        font-family: permanent marker;
+        color: cyan;
+        padding: 5px;
+        text-align: center;
+}
+.logo,.menu{
+    display: inline-block;
+}
