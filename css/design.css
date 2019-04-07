@@ -4,14 +4,29 @@ body {
 .menu {
         text-align: center;
         padding: 10px;
-        float: right;
+        margin: auto;
 }
 .menu a{
         font-family: permanent marker;
         color: cyan;
         padding: 5px;
         text-align: center;
+        display: block;
+        font-size: 25px;
 }
 .logo,.menu{
-    display: inline-block;
+    display: block;
+    margin: 40px;
+}
+.biodata{
+        font-family: permanent marker;
+        color: cyan;
+        padding: 5px;
+        text-align: center;
+}
+.header{
+    text-align: center;
+    font-family: dead kansas;  
+    color: white;
+    font-size: 75px;
 }
