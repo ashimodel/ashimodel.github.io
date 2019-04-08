@@ -32,7 +32,9 @@ body {
     text-align: center;
     font-family: dead kansas;  
     color: white;
+    padding: 20px;
     font-size: 75px;
+    width: 100%;
     display: inline-block;
 }
 #particles-js {
